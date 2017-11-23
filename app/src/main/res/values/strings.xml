@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Invitation</string>
+    <string name="name">Your Name</string>
+    <string name="btya">Im In</string>
+    <string name="btno">No, I Already Have Another Event</string>
+    <string name="canyou">Can You Attend? May, 24th at 7.00 p.m.</string>
+</resources>
